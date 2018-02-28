@@ -46,14 +46,10 @@ port configured as output this will be noted in the repsonse
 ---
 Returns the status of port 4, configured as input
 
-#### url 
-`/IO_State/:portnumber`
-#### method 
-`GET`
-#### response status 
-`200`
-#### headers 
-`none`
+#### url `/IO_State/:portnumber`
+#### method `GET`
+#### response status `200`
+#### headers `none`
 
 #### response:
 
